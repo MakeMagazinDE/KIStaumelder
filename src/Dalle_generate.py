@@ -47,7 +47,7 @@ url = f"{root_url}appid={api_key}&q={city_name}&cnt=3"
 r = requests.get(url) 
 #print(r.json()) 
 data = r.json() 
-# Vorhersagewerte einlesen. ['weather'][0] = in 3 Stunden, ['weather'][1] = in 6 Stunden, etc. -> max. in Zeile 46 einstellen bei "&cnt=3"
+# Vorhersagewerte einlesen
 descr = data["list"][1]['weather'][0]['description'] 
 print("Generiere Bild:")
 print(f"Stil: {pic_style}")
