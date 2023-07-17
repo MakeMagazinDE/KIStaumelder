@@ -12,6 +12,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-Hier gibt es den **[Code](./scr)** zum Nachbau des Staumelders sowie Testprogramme für die API-Zugriffe sowie ein **[PDF](./doc/Aufbau.pdf)** des Verdrahtungsplans.
+Hier gibt es den **[Code](./src)** zum Nachbau des Staumelders sowie Testprogramme für die API-Zugriffe sowie ein **[PDF](./doc/Aufbau.pdf)** des Verdrahtungsplans.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 4/23 ab Seite 76]([https://www.heise.de/select/make/2023/4/2314415312499655078)**.
